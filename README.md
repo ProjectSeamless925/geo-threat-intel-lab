@@ -30,3 +30,17 @@ geopolitical-threat-intel-lab/
 ├── visualizations/ # Maps, timelines, charts
 ├── references/ # PDFs and sources used for intel
 └── README.md # This file
+
+
+---
+
+## 🧭 Get Involved
+
+- Suggestions? PRs and issues are welcome.  
+- Contributions that help refine analysis, tooling, or workflows are encouraged.
+
+---
+
+## 📌 Disclaimer
+
+This repository is for educational and research purposes only. All data is derived from open sources. Attribution is provided where possible. This lab does **not** endorse or promote surveillance, exploitation, or illegal activity of any kind.
