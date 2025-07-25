@@ -21,20 +21,12 @@ This lab is designed to explore the intersection of cybersecurity, geopolitics, 
 ---
 
 ## 🗂️ Repository Structure
-
-geo-threat-intel-lab/
-│
-├── README.md
-├── threat_actors/
-│   ├── china.md
-│   ├── russia.md
-│   └── iran.md
-├── geopolitical_events/
-│   └── taiwan_election_2024.md
-├── tools_and_scripts/
-│   ├── osint_collector.py
-│   └── mitre_mapping.ipynb
-├── resources/
-│   └── reading_list.md
-└── dashboards/
-    └── actor_timelines.csv
+geopolitical-threat-intel-lab/
+├── datasets/ # CSVs or JSONs with geopolitical events, threat actor info
+├── notebooks/ # Jupyter Notebooks for exploration and analysis
+├── src/ # Python scripts for enrichment, matching, and automation
+├── indicators/ # IOC mappings, MITRE ATT&CK listings
+├── reports/ # Markdown or PDF-based strategic analysis
+├── visualizations/ # Maps, timelines, charts
+├── references/ # PDFs and sources used for intel
+└── README.md # This file
